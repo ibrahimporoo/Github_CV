@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdo</h1>
 <h3 align="center">A very passionated computer science student, who has a great passion to be a good software Engineer.</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0SfAwcyaedQCkzzFxv28sSZqBJnTZo6mtw&usqp=CAU" alt="wallpaper" width="800" margin="0 auto">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0SfAwcyaedQCkzzFxv28sSZqBJnTZo6mtw&usqp=CAU" alt="wallpaper" width="100%" margin="0 auto">
 
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400" align="right">
 
