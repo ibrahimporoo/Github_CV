@@ -1,7 +1,7 @@
-<img src="![image](https://github.com/ibrahimporoo/Github_CV/assets/97833143/df8b1da0-af0b-4434-9edd-4f95abb399de)
-" alt="coding" width="400" align="right">
 <h1 align="center">Hi 👋, I'm Ibrahim Abdo</h1>
 <h3 align="center">A very passionated computer science student, who has a great passion to be a good software Engineer.</h3>
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400" align="right">
 
 - 🌱 I’m currently learning **React in depth**
 
